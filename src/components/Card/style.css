@@ -1,0 +1,7 @@
+.cardSpecifyMember {
+    border-radius: 25px;
+    margin: 20px !important;
+    overflow: scroll;
+    width: 270px !important;
+    height: 215px !important;
+  }
